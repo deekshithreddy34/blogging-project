@@ -1,0 +1,21 @@
+{
+  "name": "@deekshithsripati/medium-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo here could be a build job",
+    "test": "jasmine",
+    "publish": "npm publish"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.24.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deekshithreddy/medium-common.git"
+  }
+}
