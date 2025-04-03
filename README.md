@@ -7,14 +7,14 @@ DATABASE_URL="....."
 
 install the npm packages 
 then run npm run dev in the backend
-commands:
+```sh
 cd backend
 npm install
 npm run dev
 
 run npm i in frontend as well 
 run npm run dev
-commands:
+```sh
 cd frontend
 npm install
 npm run dev
