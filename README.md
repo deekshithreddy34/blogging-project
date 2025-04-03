@@ -4,10 +4,16 @@ to run the project setup the .env file in the backend
 
 DATABASE_URL="....."
 install the npm packages 
-then run npm run dev
+then run npm run dev in the backend
+cd backend
+npm install
+npm run dev
 
 run npm i in frontend as well 
 run npm run dev
+cd frontend
+npm install
+npm run dev
 
 Snippet shots of the UI
 ![image](https://github.com/user-attachments/assets/25e4ac19-6e3f-494e-9ad3-89b967b72296)
