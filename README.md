@@ -1,16 +1,20 @@
 # blogging-project
+clone the repo
+git clone https://github.com/deekshithreddy34/blogging-project.git
 
 to run the project setup the .env file in the backend 
-
 DATABASE_URL="....."
+
 install the npm packages 
 then run npm run dev in the backend
+commands:
 cd backend
 npm install
 npm run dev
 
 run npm i in frontend as well 
 run npm run dev
+commands:
 cd frontend
 npm install
 npm run dev
