@@ -1,6 +1,8 @@
 # blogging-project
 clone the repo
+```sh
 git clone https://github.com/deekshithreddy34/blogging-project.git
+```
 
 to run the project setup the .env file in the backend 
 DATABASE_URL="....."
