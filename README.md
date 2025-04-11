@@ -1,3 +1,48 @@
+📰 Modern Blog Platform – Full Stack Project
+
+A sleek, fully functional blog platform built with modern web technologies. It features a clean React frontend, a lightweight Hono.js backend, PostgreSQL for data storage, and Prisma ORM for elegant database access. Validation is handled end-to-end with a custom-built NPM package using Zod, shared between both client and server for complete type safety. Authentication is managed using JWT, with tokens stored locally on the client side.
+
+⚙️ Tech Stack
+*Layer
+Tech
+*)Frontend:
+React + Tailwind CSS
+
+*)Backend
+Database
+PostgreSQL
+ORM
+Prisma
+Validation
+Zod (via custom NPM package)
+Tooling
+*)Auth 
+JWT
+Vite, TypeScript, GitHub
+
+✨ Features
+
+📝 Blog listing with author, date, and read time
+
+📦 Shared validation logic using custom NPM package (Zod-based)
+
+🔁 End-to-end type safety with Prisma and Zod
+
+⚡ Super lightweight and fast backend using Hono.js
+
+🧠 Clean UI with responsive design via Tailwind
+
+🚀 Scalable structure with modular codebase
+
+📦 Custom NPM Package
+
+Validation logic is bundled in a reusable NPM package, providing shared schemas and types between client and server.
+
+✅ Used in the backend to validate API inputs and outputs
+
+✅ Used in the frontend to validate forms before submission
+
+
 # blogging-project
 clone the repo
 ```sh
